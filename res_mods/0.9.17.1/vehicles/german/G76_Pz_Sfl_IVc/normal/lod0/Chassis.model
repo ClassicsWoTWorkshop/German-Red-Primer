@@ -1,0 +1,10 @@
+<chassis.model>
+  <tank>	true	</tank>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.45276 0.003 -3.10934</min>
+    <max>1.45276 0.993701 3.16577</max>
+  </visibilityBox>
+  <nodefullVisual>vehicles/german/G76_Pz_Sfl_IVc/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>

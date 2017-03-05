@@ -1,0 +1,10 @@
+<chassis.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.55172 -0.000361944 -2.3475</min>
+    <max>1.55172 1.31866 2.51096</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/german/G26_VK1602/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>

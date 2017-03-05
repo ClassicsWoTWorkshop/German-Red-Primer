@@ -1,0 +1,10 @@
+<chassis.model>
+  <tank>	true	</tank>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.38005 0.000000 -3.3293</min>
+    <max>1.37796 1.01358 3.15278</max>
+  </visibilityBox>
+  <nodefullVisual>vehicles/german/G99_RhB_Waffentrager/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>

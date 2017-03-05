@@ -1,0 +1,10 @@
+<chassis.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.69994 0.00329986 -3.01644</min>
+    <max>1.69994 1.46972 3.23819</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/german/G106_PzKpfwPanther_AusfF/normal/lod0/Chassis</nodefullVisual>
+</chassis.model>
