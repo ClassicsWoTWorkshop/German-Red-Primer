@@ -60,4 +60,4 @@ IMPORTANT NOTES:
 
 Enjoy!
 
-Made by FastestClassic
+Made by FastestClassic.
